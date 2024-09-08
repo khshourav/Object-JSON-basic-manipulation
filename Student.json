@@ -1,0 +1,18 @@
+{
+    "student": [{
+        "Name": "Mr Rakibul",
+    "Email": "rakib@gmail.com",
+    "Age": 25,
+    "Cgpa": 3.55,
+    "Town": "Sirajganj",
+    "Language":["HTML","CSS","JS","PHP","Laravel"],
+    "Friends":[{
+        "Name": "Fiz",
+        "ID": 1
+    },
+    {
+        "Name": "Khan",
+        "ID": 2
+    }]
+    }]
+}
